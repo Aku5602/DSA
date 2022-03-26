@@ -19,6 +19,7 @@ int push(int n)
   return 0;
 }
 
+
 int pop()
 {
     Stack[top]==0;
