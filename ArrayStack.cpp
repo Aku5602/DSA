@@ -2,6 +2,7 @@
 using namespace std;
 int Stack[3],top=-1;
 
+
 int push(int n)
 {
   if(top<3 )
